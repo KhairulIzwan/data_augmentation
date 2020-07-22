@@ -43,5 +43,5 @@ for image in imageGen:
 	total += 1
 
 	# if we have reached 10 examples, break from the loop
-	if total == 10:
+	if total == 100:
 		break
